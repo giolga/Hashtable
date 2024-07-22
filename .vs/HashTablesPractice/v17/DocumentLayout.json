@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\OneDrive\\Desktop\\C#\\HashTablesPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3CA470-5FDC-45B9-ADC9-9D7ED89B20EE}|HashTablesPractice\\HashTablesPractice.csproj|c:\\users\\mikey\\onedrive\\desktop\\c#\\hashtablespractice\\hashtablespractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B3CA470-5FDC-45B9-ADC9-9D7ED89B20EE}|HashTablesPractice\\HashTablesPractice.csproj|solutionrelative:hashtablespractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\OneDrive\\Desktop\\C#\\HashTablesPractice\\HashTablesPractice\\Program.cs",
+              "RelativeDocumentMoniker": "HashTablesPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikey\\OneDrive\\Desktop\\C#\\HashTablesPractice\\HashTablesPractice\\Program.cs",
+              "RelativeToolTip": "HashTablesPractice\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:02:36.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
